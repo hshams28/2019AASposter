@@ -1,0 +1,4 @@
+John K. Parejko: University of Washington, DIRAC, LSST
+Pierre Astier: LPNHE/IN2P3/CNRS, Paris, France
+Jim Bosch: Princeton University, Princeton, NJ, United States
+Dominique Boutigny: LPNHE/IN2P3/CNRS, Paris, France

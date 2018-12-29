@@ -1,0 +1,1 @@
+Here we demonstrate jointcal's astrometric and photometric calibration performance on HSC data (102 ccds), using XX exposures.

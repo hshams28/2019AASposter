@@ -1,0 +1,1 @@
+Jointcal operates at the catalog level, mapping each star ($S_{\gamma,i}$) from one exposure onto the true values on the sky ($F_i$). 
