@@ -1,1 +1,1 @@
-Running jointcal on XXXX visits of HSC data takes around YYYY hours, with roughly ZZZZ% devoted to reading the data from disk. At present, jointcal uses a single core: future plans include parallelizing reading the data, and parallelizing outlier rejection.
+Running jointcal on 40-50 visits of HSC takes around 5 hours. At least 20% of that time is devoted to reading the catalogs and metadata from disk, while up to 50% is spent in outlier rejection. At present, jointcal uses a single core: future plans include parallelizing data reads, and parallelizing outlier rejection.
