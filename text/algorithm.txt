@@ -1,1 +1,1 @@
-Jointcal operates at the catalog level, mapping each star ($S_{\gamma,i}$) from one exposure onto the true values on the sky ($F_i$). 
+We observe the same star in different parts of the focal plane. Jointcal minimizes the difference between the observations, and between the "true" values and a reference catalog to model the telescope and atmosphere. This approach better characterizes the astrometric distortions and photometric throughput across the entire focal plane. 
