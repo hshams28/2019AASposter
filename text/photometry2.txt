@@ -1,1 +1,2 @@
-The lower plot shows the RMS of the residuals on stars that are measured on multiple exposures. The dashed line is the median RMS: jointcal's improvement in measurement repeatibility is clear from the plot. *Something about how this holds across many "tracts"?*
+The histograms show the RMS of the residuals on stars that are measured on multiple exposures.
+The Dashed line is the median RMS: note jointcal's improved residuals.
