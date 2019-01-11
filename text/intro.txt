@@ -1,0 +1,8 @@
+Jointcal is an LSST Science Pipelines software package to optimize the astrometric and photometric calibrations of a set of mosaic camera images of an area of sky.
+The Jointcal algorithm matches both between exposures and to external reference catalogs; this allows many more sources to be fit when the images are significantly deeper than those of the reference catalogs (for example, LSST's 30-second r-band exposure depth will be 24.7 compared with r < 20 for Gaia's final survey depth).
+Jointcal can operate on any camera that can be processed by the LSST software, including CFHT Megacam, DECam, Subaru Hyper Suprime-Cam (HSC), and simulated LSST images from phosim and imsim.
+
+
+and produces more accurate distortion and throughput models than if the astrometry and photometry were fit on the individual exposures.
+
+The Jointcal package is part of the , and 

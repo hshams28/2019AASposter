@@ -1,0 +1,3 @@
+Here we demonstrate jointcal's astrometric and photometric calibration performance on HSC data (102 ccds), with 45 exposures of one field (XMM-WIDE HSC-I band).
+We fit a 7th order polynomial per visit over the whole focal plane, and an affine transformation (2d rotation, translation and scale) for each sensor (fixd for all observations).
+Residuals are markedly reduced on the edges of ccds, where the focal plane polynomial and more available sources allow the model to not diverge at the edge.

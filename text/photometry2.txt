@@ -1,0 +1,2 @@
+The histograms show the RMS of the residuals on stars that are measured on multiple exposures.
+The Dashed line is the median RMS: note jointcal's improved residuals.

@@ -1,0 +1,3 @@
+Here is Jointcal's photometric calibration of one HSC exposure (one scale factor per CCD, times a 7th order chebyshev polynomial per visit), with the single frame algorithm (processCcd) divided out.
+The largest deviations are at the edges of the focal plane, where HSC is significantly vignetted.
+The middle of the focal plane also has variations at the >2% level.

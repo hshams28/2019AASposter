@@ -1,0 +1,4 @@
+Jointcal uses the sparseness of the Hessian matrix (2nd derivatives of the model parameters) to rapidly solve the large linear system.
+This example (45 exposures) involes >500,000 stars + 3924 model parameters.
+Running jointcal on 45 visits of HSC takes about 5 hours (single core)
+Plan to parallelize reading data and outlier rejection.
